@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp mount.sh /usr/local/bin/ntfsmount
+cp unmount.sh /usr/local/bin/ntfsunmount
